@@ -1,0 +1,22 @@
+{
+  "seller": [
+    {
+      "id": "ae35",
+      "name": "sayed",
+      "email": "mohammadsayedhossain07@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "488f",
+      "name": "Mohammad Sayed Hossain",
+      "email": "nazmul@adury.com",
+      "password": "sdfsdf"
+    },
+    {
+      "id": "2261",
+      "name": "sdsd",
+      "email": "wdsfsadf",
+      "password": "sdfsdf"
+    }
+  ]
+}
