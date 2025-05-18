@@ -1,0 +1,16 @@
+<h2>Seller Product List</h2>
+
+@if (productList.length > 0) {
+  <div class="product-wrapper">
+    @for (product of productList; track product.id) {
+      <div class="product-card">
+        <!-- <img [src]="product.image" alt="{{ product.productName }}" /> -->
+        <h3>{{ product.productName }}</h3>
+        <p>{{ product.description }}</p>
+        <strong>৳{{ product.price }}</strong>
+      </div>
+    }
+  </div>
+} @else {
+  <p>No products available.</p>
+}

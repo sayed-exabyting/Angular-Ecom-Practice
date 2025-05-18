@@ -51,4 +51,9 @@ export class SellerService {
         }
       });
   }
+
+  getSellerProducts() {
+    return this.http.get<any[]>('http://localhost:3000/seller-product-list', { observe: 'response' });
+  }
+  
 }

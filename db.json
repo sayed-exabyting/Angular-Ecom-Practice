@@ -30,5 +30,35 @@
       "email": "",
       "password": ""
     }
+  ],
+  "seller-product-list": [
+    {
+      "id": 1,
+      "productName": "Wireless Bluetooth Headphones",
+      "price": 2500,
+      "description": "High-quality over-ear headphones with noise cancellation.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "productName": "Smart Watch Series 7",
+      "price": 5200,
+      "description": "Waterproof smartwatch with heart-rate and GPS tracking.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "productName": "Gaming Mouse X Pro",
+      "price": 1700,
+      "description": "RGB backlit ergonomic gaming mouse with adjustable DPI.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "productName": "Laptop Stand Adjustable",
+      "price": 1200,
+      "description": "Ergonomic aluminum laptop stand with adjustable height.",
+      "image": "https://via.placeholder.com/150"
+    }
   ]
 }
